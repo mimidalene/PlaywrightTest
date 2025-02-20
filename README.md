@@ -1,0 +1,1 @@
+# kredit-africa-automated-test
